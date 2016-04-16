@@ -1,0 +1,28 @@
+name: behavior change
+favicon: null
+layout_spectrum: 0.25505542824976146
+typography_spectrum: 0.7497511128894985
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.893194418400526
+  lightness: 0.39448968623764813
+  saturation: 0.8188250774983317
+  rhythmicContrast: 0.3815360644366592
+purpose: []
