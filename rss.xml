@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[behavior change]]></title>
+        <description><![CDATA[behavior change]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 07:49:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brain and behavior]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5802bc07-8a15-4d53-a4df-634bab9445f1.jpg" alt="brain&amp;behavior" title="" />]]></description>
+            <link>undefinedbrain-and-behavior/index.html</link>
+            <guid isPermaLink="false">cdef2205-4c25-4074-bf7b-323d7f43bc03</guid>
+            <pubDate>Mon, 25 Apr 2016 07:49:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
