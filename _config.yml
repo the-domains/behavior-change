@@ -1,6 +1,6 @@
-name: behavior change
+name: Behavior Change
 favicon: null
-layout_spectrum: 0.25505542824976146
+layout_spectrum: 0.54715
 typography_spectrum: 0.7497511128894985
 title: behavior change
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.893194418400526
-  lightness: 0.39448968623764813
-  saturation: 0.8188250774983317
-  rhythmicContrast: 0.3815360644366592
+    - '#ffffff'
+    - '#010101'
+    - '#b08b79'
+    - '#e6cabc'
+    - '#816b00'
+  brandStrength: 0.625
+  lightness: 0.5625
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
