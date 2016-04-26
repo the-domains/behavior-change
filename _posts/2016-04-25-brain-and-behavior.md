@@ -4,13 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-25T07:49:00.120Z'
-dateModified: '2016-04-25T07:45:51.163Z'
+description: 'The adjustments in brain’s organization allow for the changes in our thoughts and behavior in response to the environment (Hart, 2015); but numerous behavioral events have many determinants, and the mechanisms underlying it may not be fully explained by an anatomical or physiological approach alone, instead it may require an integrative analysis (Gary, Berntson, Cacioppo, 2009). '
+datePublished: '2016-04-26T02:19:25.202Z'
+dateModified: '2016-04-26T01:25:08.704Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-25-brain-and-behavior.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,15 +20,13 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-brain-and-behavior.md
-published: true
 url: brain-and-behavior/index.html
 _type: Article
 
 ---
-![brain&behavior](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5802bc07-8a15-4d53-a4df-634bab9445f1.jpg)
+![brain&behavior](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6da6d3e4-3474-4945-8945-990542b09b5a.jpg)
 
-Brain and behaviorThe adjustments in brain's organization allow for the changes in our thoughts and behavior in response to the environment (Hart, 2015); but numerous behavioral events have many determinants, and the mechanisms underlying it may not be fully explained by an anatomical or physiological approach alone, instead it may require an integrative analysis (Gary, Berntson, Cacioppo, 2009). 
+The adjustments in brain's organization allow for the changes in our thoughts and behavior in response to the environment (Hart, 2015); but numerous behavioral events have many determinants, and the mechanisms underlying it may not be fully explained by an anatomical or physiological approach alone, instead it may require an integrative analysis (Gary, Berntson, Cacioppo, 2009). 
 
 There are neural processes that determine among others, whether social stimuli are assigned either a positive or a negative disposition, with positive stimuli activating pathways that cause acceptance, caregiving, and other prosocial behaviors, and negative social stimuli activating pathways that cause avoidance, rejection, competition, attack and other antisocial behaviors. But these neural processes are performed by the brain structures, and the resulting behavior is a consequence of its functional anatomy and relationships. As part of this brain structures, some of the lower brainstem nuclei that show to be important for social behavior, are the midbrain periaqueductal gray (PAG), dopamine neurons within the ventral tegmental area (in the midbrain), and the serotonin neurons of the raphe nuclei located in the midbrain and pons. The descending projection of the PAG to the medullary reticular formation is an important route through which PAG output affects defensive and aggressive reflex responses, such as behavioral inmobility, escape responses, or biting, and reflexive sexual and parental behaviors. Additionally, the hypothalamus is involved in the control of a variety of motivated behavior, including social behaviors. These social behaviors include reproductive behaviors (sexual and parental) and aggressive and defensive behaviors, and It is likely that separate and distinct neuronal populations regulate each one of these behaviors (Numan, 2014)
 
