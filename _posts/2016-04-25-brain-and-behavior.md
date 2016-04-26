@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The adjustments in brain’s organization allow for the changes in our thoughts and behavior in response to the environment (Hart, 2015); but numerous behavioral events have many determinants, and the mechanisms underlying it may not be fully explained by an anatomical or physiological approach alone, instead it may require an integrative analysis (Gary, Berntson, Cacioppo, 2009). '
-datePublished: '2016-04-26T02:19:25.202Z'
-dateModified: '2016-04-26T01:25:08.704Z'
+datePublished: '2016-04-26T02:20:56.594Z'
+dateModified: '2016-04-26T02:20:46.248Z'
 title: ''
 author:
   - name: ''
@@ -32,7 +32,7 @@ There are neural processes that determine among others, whether social stimuli a
 
 These are only a few examples of the brain-behavior relationship and books, papers and reports, are plenty of results and analysis that give support to this relation.
 
-References
+**References**
 
 Gary G. Berntson, John T. Cacioppo, PhD 2009 Handbook of Neuroscience for the Behavioral Sciences, Volume 1 John Wiley & Sons.
 
