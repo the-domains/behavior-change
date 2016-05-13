@@ -4,7 +4,7 @@
         <description><![CDATA[behavior change]]></description>
         <link>http://behaviorchg.tk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 16:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 16:41:40 GMT</lastBuildDate>
         <atom:link href="http://behaviorchg.tk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How Brain Chemistry Affects Behavior Change]]></title>
@@ -12,6 +12,13 @@
             <link>http://behaviorchg.tk/how-brain-chemistry-affects-behavior-change/index.html</link>
             <guid isPermaLink="false">3936bc73-523d-4b80-ab1b-bdc8e2c58a16</guid>
             <pubDate>Fri, 13 May 2016 16:41:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Download Center]]></title>
+            <description><![CDATA[<article><h1>Download Center</h1><p>Debug: Priority: {{ download.priority }} Targets: {{ download.targets }} Platforms: {{ download.platforms }} APIs: {{ download.apis }} Types: {{ download.types }} Processors: {{ download.processors }} Activities: {{ download.activities }}</p></article>]]></description>
+            <link>https://developer.nvidia.com/gameworksdownload#?dn=codeworks-for-android-1r4</link>
+            <guid isPermaLink="false">4b467335-ba02-4279-a2dd-c4eb69ab1863</guid>
+            <pubDate>Fri, 13 May 2016 16:35:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brain and Behavior]]></title>
