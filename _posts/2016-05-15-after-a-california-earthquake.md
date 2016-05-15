@@ -15,9 +15,11 @@ keywords:
   - risk
   - risa
 description: 'Shortly before the Loma Prieta earthquake devastated areas of Northern California in 1989, Risa Palm and her associates had surveyed 2,500 homeowners in the area about their perception of risk from earthquakes.'
-datePublished: '2016-05-15T22:52:25.067Z'
-dateModified: '2016-05-15T22:52:19.036Z'
-author: []
+datePublished: '2016-05-15T22:53:30.635Z'
+dateModified: '2016-05-15T22:52:33.920Z'
+author:
+  - name: ''
+    url: ''
 related:
   - score: 0.5864534974
     description: 'When the 2011 earthquake and tsunami struck Tohoku, Japan, Chris Goldfinger was two hundred miles away, in the city of Kashiwa, at an international meeting on seismology. As the shaking started, everyone in the room began to laugh. Earthquakes are common in Japan-that one was the third of the week-and the participants were, after all, at a seismology conference.'
