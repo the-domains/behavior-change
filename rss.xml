@@ -4,7 +4,7 @@
         <description><![CDATA[behavior change]]></description>
         <link>http://behaviorchg.tk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 22:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 22:58:48 GMT</lastBuildDate>
         <atom:link href="http://behaviorchg.tk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How Brain Chemistry Affects Behavior Change]]></title>
@@ -12,6 +12,13 @@
             <link>http://behaviorchg.tk/how-brain-chemistry-affects-behavior-change/index.html</link>
             <guid isPermaLink="false">a4d1a269-af5b-4371-a647-06b9d4559fd6</guid>
             <pubDate>Sun, 15 May 2016 17:55:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brain and Behavior]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ed6099e-ee58-4967-9018-aafbeadad5f2.jpg" alt="" title="">]]></description>
+            <link>http://behaviorchg.tk/brain-and-behavior/index.html</link>
+            <guid isPermaLink="false">cdef2205-4c25-4074-bf7b-323d7f43bc03</guid>
+            <pubDate>Sun, 15 May 2016 22:58:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[After a California Earthquake]]></title>
@@ -26,13 +33,6 @@
             <link>http://behaviorchg.tk/behavior-change-in-the-classroom/index.html</link>
             <guid isPermaLink="false">f7c2fa10-bf32-455c-af9e-496fcdab794f</guid>
             <pubDate>Sun, 15 May 2016 22:53:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brain and Behavior]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ed6099e-ee58-4967-9018-aafbeadad5f2.jpg" alt="" title="">]]></description>
-            <link>http://behaviorchg.tk/brain-and-behavior/index.html</link>
-            <guid isPermaLink="false">cdef2205-4c25-4074-bf7b-323d7f43bc03</guid>
-            <pubDate>Sun, 15 May 2016 17:52:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
