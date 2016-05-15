@@ -1,11 +1,8 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://books.google.com.co'
-  name: Google Books
-  favicon: 'https://books.google.com.co/favicon.ico'
-  domain: books.google.com.co
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
 keywords:
   - psychology
   - school
@@ -18,17 +15,21 @@ keywords:
   - chapters
   - book
 description: 'This book presents practical approaches for designing and implementing self-management interventions in school settings. Rich with detailed instruction, the volume covers the conceptual foundations for the development of self-management from both contingency management and cognitive-behavioral perspectives. It provides detailed descriptions of the various self-management intervention strategies for classroom settings, and extends these techniques for use in home and community environments.'
-inLanguage: en
+datePublished: '2016-05-15T22:48:18.090Z'
+dateModified: '2016-05-15T22:47:54.038Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://books.google.com.co/books?id=Aumfst-ZK84C&printsec=frontcover&dq=behavior+change&hl=es-419&sa=X&redir_esc=y#v=onepage&q=behavior%20change&f=false'
 title: Behavior Change in the Classroom
-datePublished: '2016-05-15T22:47:09.842Z'
-dateModified: '2016-05-15T22:45:35.842Z'
-starred: false
 sourcePath: _posts/2016-05-15-behavior-change-in-the-classroom.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Google Books
+  domain: books.google.com.co
+  url: 'https://books.google.com.co'
+  favicon: 'https://books.google.com.co/favicon.ico'
+starred: false
+url: behavior-change-in-the-classroom/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
