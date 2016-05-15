@@ -14,9 +14,9 @@ keywords:
   - gerber
   - simon
   - change
-description: ''
-datePublished: '2016-05-15T03:08:46.045Z'
-dateModified: '2016-05-15T03:08:43.513Z'
+description: 'Learn more about The Healthiest You at http://books.simonandschuster.com/Program/Kelly-Traver/9781439109991?mcd=vd_youtube_book Understanding how your brain really works is critical to changing bad habits into healthy ones.'
+datePublished: '2016-05-15T03:49:32.640Z'
+dateModified: '2016-05-15T03:49:20.136Z'
 author:
   - name: 'Simon & Schuster Books'
     url: 'https://www.youtube.com/user/SimonSchusterVideos'
