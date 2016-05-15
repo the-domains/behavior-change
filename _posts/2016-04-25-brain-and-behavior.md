@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The adjustments in brain’s organization allow for the changes in our thoughts and behavior in response to the environment (Hart, 2015); but numerous behavioral events have many determinants, and the mechanisms underlying it may not be fully explained by an anatomical or physiological approach alone, instead it may require an integrative analysis (Gary, Berntson, Cacioppo, 2009).'
-datePublished: '2016-05-13T07:02:33.686Z'
-dateModified: '2016-05-13T07:02:30.004Z'
+datePublished: '2016-05-15T03:47:50.256Z'
+dateModified: '2016-05-15T03:36:13.304Z'
 title: ''
 author:
   - name: ''
@@ -23,7 +23,7 @@ url: brain-and-behavior/index.html
 _type: Article
 
 ---
-![brain&behavior](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6da6d3e4-3474-4945-8945-990542b09b5a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ed6099e-ee58-4967-9018-aafbeadad5f2.jpg)
 
 The adjustments in brain's organization allow for the changes in our thoughts and behavior in response to the environment (Hart, 2015); but numerous behavioral events have many determinants, and the mechanisms underlying it may not be fully explained by an anatomical or physiological approach alone, instead it may require an integrative analysis (Gary, Berntson, Cacioppo, 2009).
 
