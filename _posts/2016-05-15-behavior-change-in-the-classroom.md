@@ -15,8 +15,8 @@ keywords:
   - chapters
   - book
 description: 'This book presents practical approaches for designing and implementing self-management interventions in school settings. Rich with detailed instruction, the volume covers the conceptual foundations for the development of self-management from both contingency management and cognitive-behavioral perspectives. It provides detailed descriptions of the various self-management intervention strategies for classroom settings, and extends these techniques for use in home and community environments.'
-datePublished: '2016-05-15T23:08:16.130Z'
-dateModified: '2016-05-15T23:07:53.931Z'
+datePublished: '2016-05-15T23:09:13.052Z'
+dateModified: '2016-05-15T23:08:25.821Z'
 author:
   - name: ''
     url: ''
