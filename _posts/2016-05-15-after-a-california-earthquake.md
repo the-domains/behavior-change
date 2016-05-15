@@ -15,8 +15,8 @@ keywords:
   - risk
   - risa
 description: 'Shortly before the Loma Prieta earthquake devastated areas of Northern California in 1989, Risa Palm and her associates had surveyed 2,500 homeowners in the area about their perception of risk from earthquakes.'
-datePublished: '2016-05-15T22:35:44.122Z'
-dateModified: '2016-05-15T22:34:47.512Z'
+datePublished: '2016-05-15T22:52:25.067Z'
+dateModified: '2016-05-15T22:52:19.036Z'
 author: []
 related:
   - score: 0.5864534974
