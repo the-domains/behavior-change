@@ -1,14 +1,8 @@
 ---
-author:
-  - name: 'Simon & Schuster Books'
-    url: 'https://www.youtube.com/user/SimonSchusterVideos'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
 keywords:
   - duration
   - views
@@ -20,8 +14,14 @@ keywords:
   - gerber
   - simon
   - change
-description: 'Learn more about The Healthiest You at http://books.simonandschuster.com/Program/Kelly-Traver/9781439109991?mcd=vd_youtube_book Understanding how your brain really works is critical to changing bad habits into healthy ones.'
-inLanguage: en
+description: ''
+datePublished: '2016-05-15T03:08:46.045Z'
+dateModified: '2016-05-15T03:08:43.513Z'
+author:
+  - name: 'Simon & Schuster Books'
+    url: 'https://www.youtube.com/user/SimonSchusterVideos'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Awuz9iOgKc4&feature=applinks'
     type: ios
@@ -59,15 +59,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Awuz9iOgKc4'
 title: How Brain Chemistry Affects Behavior Change
-datePublished: '2016-05-15T03:04:09.683Z'
-dateModified: '2016-05-15T03:03:22.816Z'
-starred: false
 sourcePath: _posts/2016-05-15-how-brain-chemistry-affects-behavior-change.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: true
+url: how-brain-chemistry-affects-behavior-change/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
